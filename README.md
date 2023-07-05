@@ -26,4 +26,4 @@ The development of a deep learning model for Parkinson's disease diagnosis using
 -> It can facilitate the development of personalized treatment plans for patients with Parkinson's disease.
 
 ## Architecture
-![image]
+![image](https://user-images.githubusercontent.com/82936701/247839843-8138a18c-04d1-433d-b0fe-4c900b96da90.png)
