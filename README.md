@@ -59,3 +59,8 @@ Model Integration: The trained neural network model is integrated into the web a
 -> Further research is needed to validate the accuracy and generalizability of the model in different populations and settings.
 
 -> The project demonstrates the potential of using advanced machine learning techniques for medical diagnosis and treatment.
+
+## contributors
+
+-[Aneesh A R](https://github.com/aneesh1308)
+-[Harish kumar L](https://github.com/Harish-Kumar-25)
