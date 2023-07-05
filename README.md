@@ -1,7 +1,7 @@
 # Parkinson's disease prediction using Neural networks
  Parkinson's disease prediction using MRI scan, Spiral image and Voice data, with neural network and website deployment with django.
 
-##Introduction
+## Introduction
 
 -> Parkinson's disease is a neurodegenerative disorder that affects movement.
 -> It is caused by the degeneration of dopamine-producing neurons in a region of the brain called the substantia nigra, which is responsible for controlling movement.
@@ -10,7 +10,7 @@
 -> There is currently no cure for Parkinson's disease, but treatments are available to help manage symptoms and improve quality of life.
 -> These may include medications, such as levodopa and dopamine agonists, as well as physical therapy and deep brain stimulation.
 
-##Objective
+## Objective
 
 The development of a deep learning model for Parkinson's disease diagnosis using MRI scans, spiral image and voice signal can have several benefits.
 -> It can help improve the accuracy and efficiency of diagnosis, which can lead to earlier detection and treatment of the disease.
